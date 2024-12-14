@@ -1,0 +1,14 @@
+[06-Nov-2024 18:58:53 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[08-Nov-2024 16:56:27 UTC] PHP Warning:  Attempt to read property "title" on null in /home3/forworkf/landing.forwork.fun/wp-includes/class-wp-customize-widgets.php on line 905
+[11-Nov-2024 18:05:09 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:09 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
+[11-Nov-2024 18:05:20 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:20 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
+[11-Nov-2024 18:05:24 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:24 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
+[11-Nov-2024 18:05:28 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:28 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
+[11-Nov-2024 18:05:38 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:38 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
+[11-Nov-2024 18:05:46 UTC] PHP Warning:  Undefined array key "post_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 64
+[11-Nov-2024 18:05:46 UTC] PHP Warning:  Undefined array key "form_id" in /home3/forworkf/landing.forwork.fun/wp-content/plugins/elementor-pro/modules/forms/classes/ajax-handler.php on line 76
